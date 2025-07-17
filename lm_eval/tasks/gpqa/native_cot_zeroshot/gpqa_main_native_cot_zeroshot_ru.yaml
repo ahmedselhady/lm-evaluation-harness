@@ -1,0 +1,4 @@
+dataset_name: ru
+doc_to_text: "Какой правильный ответ на этот вопрос: {{Question}}\nВарианты:\n(A) {{choice1}}\n(B) {{choice2}}\n(C) {{choice3}}\n(D) {{choice4}}\nДавайте подумаем шаг за шагом: "
+include: _gpqa_native_cot_zeroshot_yaml
+task: xgpqa_main_native_cot_zeroshot_ru

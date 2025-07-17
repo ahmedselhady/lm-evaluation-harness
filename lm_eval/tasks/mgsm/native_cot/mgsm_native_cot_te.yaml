@@ -5,7 +5,7 @@ doc_to_text: '{% if answer is not none %}{{question+"\nదశలవారీగ�
 filter_list:
 - filter:
   - function: regex
-    regex_pattern: సమాధానం (\-?[0-9\.\,]+)
+    regex_pattern:  సమాధానం \$?(\-?[0-9\.\,]+)
   - function: take_first
   name: strict-match
 - filter:

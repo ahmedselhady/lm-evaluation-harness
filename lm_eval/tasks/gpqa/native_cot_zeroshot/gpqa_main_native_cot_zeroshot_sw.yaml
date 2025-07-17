@@ -1,0 +1,4 @@
+dataset_name: sw
+doc_to_text: "Je, ni jibu gani sahihi kwa swali hili: {{Question}}\nChaguo: \n(A) {{choice1}}\n(B) {{choice2}}\n(C) {{choice3}}\n(D) {{choice4}}\nWacha tufikirie hatua kwa hatua: "
+include: _gpqa_native_cot_zeroshot_yaml
+task: xgpqa_main_native_cot_zeroshot_sw
