@@ -127,6 +127,10 @@ conflicts = [
       { extra = "gptq" },
       { extra = "vllm" },
     ],
+    [
+      { extra = "acpbench" },
+      { extra = "vllm" },
+    ],
 ]
 
 [tool.pymarkdown]

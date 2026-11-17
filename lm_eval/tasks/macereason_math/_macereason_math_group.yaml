@@ -1,0 +1,18 @@
+group: macereason_math
+task:
+  - macereason_math_en
+  - macereason_math_bn
+  - macereason_math_de
+  - macereason_math_es
+  - macereason_math_fr
+  - macereason_math_it
+  - macereason_math_ja
+  - macereason_math_ko
+  - macereason_math_pt
+  - macereason_math_ru
+  - macereason_math_sw
+  - macereason_math_te
+  - macereason_math_th
+  - macereason_math_zh
+metadata:
+  version: 1.0

@@ -1,0 +1,18 @@
+group: macereason_math_train
+task:
+  - macereason_math_en_train
+  - macereason_math_bn_train
+  - macereason_math_de_train
+  - macereason_math_es_train
+  - macereason_math_fr_train
+  - macereason_math_it_train
+  - macereason_math_ja_train
+  - macereason_math_ko_train
+  - macereason_math_pt_train
+  - macereason_math_ru_train
+  - macereason_math_sw_train
+  - macereason_math_te_train
+  - macereason_math_th_train
+  - macereason_math_zh_train
+metadata:
+  version: 1.0

@@ -1,0 +1,9 @@
+include: _macereason_math.yaml
+test_split: train
+num_fewshot: 5
+generation_kwargs:
+  until:
+    - "Problem:"
+  do_sample: false
+  temperature: 0.0
+  max_gen_toks: 2048
