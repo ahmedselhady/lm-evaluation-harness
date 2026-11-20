@@ -1,0 +1,21 @@
+group: mgpqa_main_english_cot_zeroshot_multi
+task:
+  - mgpqa_main_english_cot_zeroshot_en
+  - mgpqa_main_english_cot_zeroshot_zh
+  - mgpqa_main_english_cot_zeroshot_es
+  - mgpqa_main_english_cot_zeroshot_fr
+  - mgpqa_main_english_cot_zeroshot_de
+  - mgpqa_main_english_cot_zeroshot_ru
+  - mgpqa_main_english_cot_zeroshot_ja
+  - mgpqa_main_english_cot_zeroshot_th
+  - mgpqa_main_english_cot_zeroshot_sw
+  - mgpqa_main_english_cot_zeroshot_bn
+  - mgpqa_main_english_cot_zeroshot_te
+  - mgpqa_main_english_cot_zeroshot_ar
+  - mgpqa_main_english_cot_zeroshot_ko
+  - mgpqa_main_english_cot_zeroshot_vi
+  - mgpqa_main_english_cot_zeroshot_cs
+  - mgpqa_main_english_cot_zeroshot_hu
+  - mgpqa_main_english_cot_zeroshot_sr
+metadata:
+  version: 1.0

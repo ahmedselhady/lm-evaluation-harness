@@ -1,0 +1,12 @@
+dataset_name: zh
+doc_to_text: |
+  Solve this science question. Think through the problem step by step in English. Then give your final answer in Chinese, stating the correct option label and its text.
+  Question: {{Question}}
+  Choices:
+  (A) {{choice1}}
+  (B) {{choice2}}
+  (C) {{choice3}}
+  (D) {{choice4}}
+  Reason in English, then answer in Chinese.
+include: _mgpqa_native_cot_zeroshot_yaml
+task: mgpqa_main_english_cot_zeroshot_zh

@@ -110,7 +110,7 @@ dev = [
   {include-group = "dev1"},
 ]
 dev1 = [
-    "lm_eval[api]", "lm_eval[dev]", "lm_eval[hf]","sentencepiece"
+    "lm_eval[api]", "lm_eval[dev]", "lm_eval[hf]", "lm_eval[math]", "sentencepiece"
 ]
 
 [tool.uv]
